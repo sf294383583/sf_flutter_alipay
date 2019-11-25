@@ -1,6 +1,6 @@
 # sf_flutter_alipay
 
-A new Flutter plugin.
+flutter支付宝插件
 
 ## Getting Started
 
